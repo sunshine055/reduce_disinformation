@@ -131,82 +131,82 @@ c) encouraging retail investors and consumers to consider helping shine a light 
       This sedition is brought to you by…
       June 23, 2021
       	
-        Entity  | Recipient Members and Party Committees | Contributions to NRCC and NRSC|Contributions to Members and Leadership PACs|Total
-      Boeing*	48	210,000	135,500	345,500
-Koch Industries	41	105,000	184,500	289,500
-Lockheed Martin*	73	60,000	143,000	203,000
-United Parcel Services (UPS)*	40	15,000	136,500	151,500
-Raytheon*	44	30,000	108,500	138,500
-Valero Energy*	14	75,000	60,000	135,000
-General Motors*	18	25,000	61,500	86,500
-Toyota	50	0	85,500	85,500
-Reynolds American Inc.	21	15,000	66,000	81,000
-Rocket Mortgage	19	30,000	42,500	72,500
-Merck & Co. Inc.	15	30,000	35,500	65,500
-Pfizer*	9	45,000	16,000	61,000
-Walmart*	2	60,000	0	60,000
-Chevron	18	0	59,000	59,000
-Anheuser-busch Companies Inc.	15	30,000	29,000	59,000
-PNC*	1	55,000	0	55,000
-Delta	8	30,000	22,500	52,500
-Aflac*	8	30,000	18,000	48,000
-Marathon Petroleum*	5	30,000	10,000	40,000
-Ford*	6	30,000	9,500	39,500
-iHeartMedia Inc.	6	30,000	9,000	39,000
-Exxon Mobil	14	0	37,500	37,500
-AT&T*	3	30,000	5,000	35,000
-Johnson & Johnson*	7	30,000	5,000	35,000
-UBS Americas*	3	30,000	2,500	32,500
-Cigna*	15	0	30,000	30,000
-Comcast*	2	30,000	0	30,000
-Verizon*	2	30,000	0	30,000
-Alphabet Inc. (Google) *	2	30,000	0	30,000
-Eli Lilly*	2	30,000	0	30,000
-Motorola*	2	30,000	0	30,000
-PG&E	2	30,000	0	30,000
-DISH Network	2	30,000	0	30,000
-DTE Energy*	2	30,000	0	30,000
-Anthem, Inc.	2	30,000	0	30,000
-T-Mobile / Sprint 	2	30,000	0	30,000
-CVS Health	2	30,000	0	30,000
-Publix Super Markets, Inc.	2	30,000	0	30,000
-Intel*	2	30,000	0	30,000
-General Electric *	2	30,000	0	30,000
-Rolls-Royce	13	0	28,500	28,500
-Navient Corporation	5	20,000	3,000	23,000
-AstraZeneca	4	15,000	6,000	21,000
-Best Buy*	2	20,000	0	20,000
-Bloomin' Brands*	4	0	20,000	20,000
-American Airlines*	2	15,000	2,500	17,500
-Liberty Mutual Insurance*	1	15,000	0	15,000
-Humana Inc.	1	15,000	0	15,000
-United Airlines	1	15,000	0	15,000
-Lowe's	1	15,000	0	15,000
-Charter Communications Inc. (Spectrum)	1	15,000	0	15,000
-New York Life Insurance*	1	15,000	0	15,000
-Home Depot*	1	15,000	0	15,000
-FedEx	5	0	12,500	12,500
-1-800 Contacts, Inc.	2	0	11,000	11,000
-Scotts Miracle-Gro Company	1	10,000	0	10,000
-H&R Block*	3	0	10,000	10,000
-Fox Corporation	5	0	9,000	9,000
-Marathon Oil*	2	5,000	2,500	7,500
-Conoco Phillips*	3	0	7,000	7,000
-Deere & Company	1	0	5,000	5,000
-Spirit Aerosystems*	1	0	5,000	5,000
-The Wendy's Company	1	0	5,000	5,000
-Dow Chemical*	1	5,000	0	5,000
-AutoZone Inc.	1	0	5,000	5,000
-Gap*	1	0	5,000	5,000
-Booz Allen Hamilton Holdings*	2	0	3,500	3,500
-Garmin International Inc.	1	0	2,500	2,500
-Tyson*	1	0	2,500	2,500
-Wawa Inc.	2	0	2,000	2,000
-JetBlue Airways*	1	0	1,000	1,000
-Bacardi USA Inc.	1	0	1,000	1,000
-      
-      
-      
+Boeing*
+Koch Industries
+Lockheed Martin*
+United Parcel Services (UPS)*
+Raytheon*
+Valero Energy*
+General Motors*
+Toyota
+Reynolds American Inc.
+Rocket Mortgage
+Merck & Co. Inc.
+Pfizer*
+Walmart*
+Chevron
+Anheuser-busch Companies Inc.
+PNC*
+Delta
+Aflac*
+Marathon Petroleum*
+Ford*
+iHeartMedia Inc.
+Exxon Mobil
+AT&T*
+Johnson & Johnson*
+UBS Americas*
+Cigna*
+Comcast*
+Verizon*
+Alphabet Inc. (Google) *
+Eli Lilly*
+Motorola*
+PG&E
+DISH Network
+DTE Energy*
+Anthem, Inc.
+T-Mobile / Sprint 
+CVS Health
+Publix Super Markets, Inc.
+Intel*
+General Electric *
+Rolls-Royce
+Navient Corporation
+AstraZeneca
+Best Buy*
+Bloomin' Brands*
+American Airlines*
+Liberty Mutual Insurance*
+Humana Inc.
+United Airlines
+Lowe's
+Charter Communications Inc. (Spectrum)
+New York Life Insurance*
+Home Depot*
+FedEx
+1-800 Contacts, Inc.
+Scotts Miracle-Gro Company
+H&R Block*
+Fox Corporation
+Marathon Oil*
+Conoco Phillips*
+Deere & Company
+Spirit Aerosystems*
+The Wendy's Company
+Dow Chemical*
+AutoZone Inc.
+Gap*
+Booz Allen Hamilton Holdings*
+Garmin International Inc.
+Tyson*
+Wawa Inc.
+JetBlue Airways*
+Bacardi USA Inc.
+
+* Indicates a company that originally committed to ceasing contributions benefiting members who voted not to certify the election.
+
+ 
       iv. 
       https://www.citizen.org/article/corporate-sponsors-of-voter-suppression-state-lawmakers-50-million/
       April 5, 2021
@@ -219,22 +219,53 @@ Bacardi USA Inc.	1	0	1,000	1,000
       Written by Media Matters Staff
       Published 07/26/19 1:37 PM EDT
       Updated 10/15/21 11:45 AM EDT
-         (note: these are the names pulled from the article, with us tickers in parentheses where available)
-         MyPillow
-         Procter & Gamble (PG)
-         Amazon (AMZN)
-         Kraft Heinz (KHC)
-         Pfizer (PFE)
-         GlaxoSmithKline (GSK)
-         Sandals Resorts
-         PetSmart
-         Liberty Mutual
-         Allstate (ALL)
-         Progressive (PGR)
-         Abbott (ABT)
-         General Motors (GM)
-         Indeed
-         Novartis (NVS)
+      
+(note: these are the names pulled from the article, with us tickers in parentheses where available)
+
+
+MyPillow
+
+
+Procter & Gamble (PG)
+
+
+Amazon (AMZN)
+
+
+Kraft Heinz (KHC)
+
+
+Pfizer (PFE)
+
+
+GlaxoSmithKline (GSK)
+
+
+Sandals Resorts
+
+
+PetSmart
+
+
+Liberty Mutual
+
+
+Allstate (ALL)
+
+
+Progressive (PGR)
+
+
+Abbott (ABT)
+
+
+General Motors (GM)
+
+
+Indeed
+
+
+Novartis (NVS)
          
 
 --------------------------------------
