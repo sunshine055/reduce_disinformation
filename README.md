@@ -10,6 +10,7 @@
 5. Financial supporters of disinformation: Archived articles, reports, links.
 6. An Example
 7. Accumulated raw links, headlines and other information (the brunt of this page is here).
+8. Saved information on how to edit this page.
 
 -------
 
@@ -111,5 +112,7 @@ General Motors (GM)
 Indeed
 
 Novartis (NVS)
+
+
 
 
