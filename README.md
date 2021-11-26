@@ -318,14 +318,14 @@ JetBlue Airways*
 Bacardi USA Inc.
 
 
-      iv. 
-      https://www.citizen.org/article/corporate-sponsors-of-voter-suppression-state-lawmakers-50-million/
+iv. 
+https://www.citizen.org/article/corporate-sponsors-of-voter-suppression-state-lawmakers-50-million/
       April 5, 2021
       The Corporate Sponsors of Voter Suppression
       Since 2015, Corporations Have Contributed $50 Million to the State Lawmakers Supporting Voter Suppression Bills, Trade Groups Have Given Another $36 Million
-      
-      v. 
-      https://www.mediamatters.org/fox-news/these-are-fox-news-leading-advertisers
+
+v. 
+https://www.mediamatters.org/fox-news/these-are-fox-news-leading-advertisers
       These are Fox News'leading advertisers
       Written by Media Matters Staff
       Published 07/26/19 1:37 PM EDT
