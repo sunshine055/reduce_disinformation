@@ -11,13 +11,15 @@
         a) "We cannot help it if donations to politial action committees and politicians go to support many different sorts of votes."
         
         b) "We cannot help it if advertising dollars go to an organization which provides a platform for many different points of view."
-
-        Rebuttal:
+        Rebuttal
         
    ii.  The excuse: You are advocating for "censorship".  We are against "censorship".
-        Rebuttal: 
+   
+        Rebuttal
+        
   iii.  The excuse: Disinformation campaign is hard to define.  There is a fine line between stating and mis-stating a point of information is "disinformation".  There is a real risk of discouraging legitimate discussion about hard-to-parse points of science and issues.
-        Rebuttal: 
+  
+        Rebuttal
 5.  Spreaders of disinformation
     a) Summary
         Elected and appointed officials
