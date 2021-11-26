@@ -57,7 +57,7 @@ c) encouraging retail investors and consumers to consider helping shine a light 
     c) US 2020 Presidential Election and related attempt to undermine US Election System Integrity
 --------------------------------------
 4.  Anticipation of objections/excuses, and rebuttals.
-5.  
+
     i.  The excuse: Most financial support of disinformation campaigns is indirect and watered down.  
         a) "We cannot help it if donations to politial action committees and politicians go to support many different sorts of votes."
         b) . "We cannot help it if advertising dollars go to an organization which provides a platform for many different points of view."
@@ -145,6 +145,15 @@ c) encouraging retail investors and consumers to consider helping shine a light 
 
 --------------------------------------
 8.  Additional raw links and research
+      i.  (note this article does not demonstrate disinformation directly coming from this platform, but is noted as it might point to the need for further research).
+         https://www.vox.com/2018/4/3/17180020/sinclair-broadcast-group-conservative-trump-david-smith-local-news-tv-affiliate
+         Sinclair, the pro-Trump, conservative company taking over local news, explained
+         Sinclair reaches 40 percent of households — and soon will reach 72 percent.
+         By Dylan Matthewsdylan@vox.com Apr 3, 2018, 2:20pm EDT 
+         
+         
+
+
 
 
 --------------------------------------
