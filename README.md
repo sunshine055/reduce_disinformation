@@ -73,16 +73,18 @@ c) encouraging retail investors and consumers to consider helping shine a light 
         Elected and appointed officials
         Behind-the-scenes groups: Industry associations, lobbying groups, advocacy groups
         News and Opinion Providers
+        
     b) Accumulated raw articles, reports, links.
 
 --------------------------------------
 6.  Providers of platforms for disinformation
     a) Summary
+    
     b) Accumulated raw articles, reports, links.
 
 --------------------------------------
 7. Financial supporters, both direct and indirect, of disinformation
-    a) notes
+    a) Summary
     b) Accumulated raw articles, reports, links.
       i. 
       https://www.reuters.com/investigates/special-report/usa-oneamerica-att/
@@ -132,11 +134,15 @@ c) encouraging retail investors and consumers to consider helping shine a light 
          
 
 --------------------------------------
-8. An Example
+8.  Additional raw links and research
+
+
 --------------------------------------
-9. Methods for Reducing the flow of finance from financial supporters of disinformation to platformers and spreaders.
+9. An Example
 --------------------------------------
-10. Saved information on how to edit this page.
+10. Methods for Reducing the flow of finance from financial supporters of disinformation to platformers and spreaders.
+--------------------------------------
+11. Saved information on how to edit this page.
 
 # Title Here
 
