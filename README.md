@@ -5,12 +5,13 @@
     b) Pandemic Emergency
     c) US 2020 Presidential Election and related attempt to undermine US Election System Integrity
 4.  Anticipation of objections/excuses, and rebuttals.
+
     i.  The excuse: Most financial support of disinformation campaigns is indirect and watered down. 
     
         a) "We cannot help it if donations to politial action committees and politicians go to support many different sorts of votes."
         
         b) . "We cannot help it if advertising dollars go to an organization which provides a platform for many different points of view."
-        
+
         Rebuttal:
         
    ii.  The excuse: You are advocating for "censorship".  We are against "censorship".
