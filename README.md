@@ -66,7 +66,7 @@ c) encouraging retail investors and consumers to consider helping shine a light 
     
     b) Pandemic Emergency
     
-    c) US 2020 Presidential Election and related attempt to undermine US Election System Integrity
+    c) US 2020 Presidential Election and related ongoing attempts to undermine US Election System Integrity
 
 --------------------------------------
 4.  Anticipation of objections/excuses, and rebuttals.
@@ -87,7 +87,7 @@ c) encouraging retail investors and consumers to consider helping shine a light 
         Rebuttal:
 
 --------------------------------------
-5.  Spreaders of disinformation
+5.  Raw research as to spreaders of disinformation
 
     a) Summary
     
@@ -101,7 +101,7 @@ c) encouraging retail investors and consumers to consider helping shine a light 
     b) Accumulated raw articles, reports, links.
 
 --------------------------------------
-6.  Providers of platforms for disinformation
+6.  Raw research as to providers of platforms for disinformation
 
     a) Summary
     
@@ -119,7 +119,7 @@ By Dylan Matthewsdylan@vox.com
 Apr 3, 2018, 2:20pm EDT 
                
 --------------------------------------
-1. Financial supporters, both direct and indirect, of disinformation
+7. Raw research as to financial supporters of disinformation
 
     a) Summary
     
@@ -414,7 +414,7 @@ If it helps you can use this markdown editor: [https://markdown-editor.github.io
 
 Description here.
 
-Maybe a disclaimer that this is community driven, and noone in this community is a financial advisor.
+Possibly a disclaimer could go here.
 
 ## Heading Level 2
 
