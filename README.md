@@ -57,18 +57,22 @@ c) encouraging retail investors and consumers to consider helping shine a light 
     c) US 2020 Presidential Election and related attempt to undermine US Election System Integrity
 --------------------------------------
 4.  Anticipation of objections/excuses, and rebuttals.
-
+5.  
     i.  The excuse: Most financial support of disinformation campaigns is indirect and watered down.  
         a) "We cannot help it if donations to politial action committees and politicians go to support many different sorts of votes."
         b) . "We cannot help it if advertising dollars go to an organization which provides a platform for many different points of view."
+        
         Rebuttal:
+        
     ii. The excuse: You are advocating for "censorship".  We are against "censorship".
+        
         Rebuttal: 
-    iii. 
-        The excuse: Disinformation campaign is hard to define.  There is a fine line between stating and mis-stating a point of information is "disinformation".  
+        
+    iii.The excuse: Disinformation campaign is hard to define.  There is a fine line between stating and mis-stating a point of information is "disinformation".  
         There is a real risk of discouraging legitimate discussion about hard-to-parse points of science and issues.
         
         Rebuttal:
+
 --------------------------------------
 5.  Spreaders of disinformation
 
