@@ -1,7 +1,3 @@
-Last Edit: 2021-11-24:
-
-The page for now is structured this way:
-
 1.  Intro
 2.  Goal Description
 3.  List of priority deadly disinformation points.
@@ -13,6 +9,7 @@ The page for now is structured this way:
     b) Platforms
 5. Financial supporters of disinformation: Archived articles, reports, links.
 6. An Example
+7. Accumulated raw links, headlines and other information (the brunt of this page is here).
 
 -------
 
