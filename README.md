@@ -62,6 +62,7 @@ c) encouraging retail investors and consumers to consider helping shine a light 
     a) Climate Emergency
     b) Pandemic Emergency
     c) US 2020 Presidential Election and related attempt to undermine US Election System Integrity
+
 --------------------------------------
 4.  Anticipation of objections/excuses, and rebuttals.
 
@@ -317,8 +318,6 @@ JetBlue Airways*
 Bacardi USA Inc.
 
 
-
- 
       iv. 
       https://www.citizen.org/article/corporate-sponsors-of-voter-suppression-state-lawmakers-50-million/
       April 5, 2021
