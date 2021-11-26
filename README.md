@@ -130,81 +130,193 @@ c) encouraging retail investors and consumers to consider helping shine a light 
       Money In Politics
       This sedition is brought to you by…
       June 23, 2021
-      	
+
+Top Corporate Donars:
+
+Boeing
+
+American Crystal Sugar
+
+Koch
+
+General Dynamics
+
+Lockheed Martin
+
+UPS
+
+L3 Harris Technologies
+
+Northrump Grumman
+
+Raytheon
+
+Valeo
+     
+
+-----------
+Full list as presented on the citizensforethics.org page:
+
+ 	
+"....Business groups were eager to start giving to Sedition Caucus members in the wake of the January 6th
+
+"The flow of money from corporate PACs and industry groups to political committees allied with the Sedition Caucus started just days after the insurrection, and within the first few months after the deadly attack, their total contributions had already climbed into the millions of dollars.
+
+"....These totals include contributions from PACs that are tied to either a corporation or a business group that represents an industry or profession. The recipients in these tallies include the campaigns and leadership PACs of the 147 members of Congress who voted not to certify the 2020 election results, as well as the National Republican Senatorial Committee (NRSC) and the National Republican Congressional Committee (NRCC), the two main Republican party committees supporting these members.
+
+
+"While some of the companies that show up in the data aren’t familiar to most Americans — like CSX Corporation and BWX Technologies — a number of the companies, listed in the chart below, are household names that most Americans will recognize and probably do business with. Several of them initially committed to ceasing contributions to members who voted not to certify the election results, before deciding to start giving again...."
+
+
+(* Indicates a company that originally committed to ceasing contributions benefiting members who voted not to certify the election.)
+
+
+
 Boeing*
+
 Koch Industries
+
 Lockheed Martin*
+
 United Parcel Services (UPS)*
+
 Raytheon*
+
 Valero Energy*
+
 General Motors*
+
 Toyota
+
 Reynolds American Inc.
+
 Rocket Mortgage
+
 Merck & Co. Inc.
+
 Pfizer*
+
 Walmart*
+
 Chevron
+
 Anheuser-busch Companies Inc.
+
 PNC*
+
 Delta
+
 Aflac*
+
 Marathon Petroleum*
+
 Ford*
+
 iHeartMedia Inc.
+
 Exxon Mobil
+
 AT&T*
+
 Johnson & Johnson*
+
 UBS Americas*
+
 Cigna*
+
 Comcast*
+
 Verizon*
+
 Alphabet Inc. (Google) *
+
 Eli Lilly*
+
 Motorola*
+
 PG&E
+
 DISH Network
+
 DTE Energy*
+
 Anthem, Inc.
+
 T-Mobile / Sprint 
+
 CVS Health
+
 Publix Super Markets, Inc.
+
 Intel*
+
 General Electric *
+
 Rolls-Royce
+
 Navient Corporation
+
 AstraZeneca
+
 Best Buy*
+
 Bloomin' Brands*
+
 American Airlines*
+
 Liberty Mutual Insurance*
+
 Humana Inc.
+
 United Airlines
+
 Lowe's
+
 Charter Communications Inc. (Spectrum)
+
 New York Life Insurance*
+
 Home Depot*
+
 FedEx
+
 1-800 Contacts, Inc.
+
 Scotts Miracle-Gro Company
+
 H&R Block*
+
 Fox Corporation
+
 Marathon Oil*
+
 Conoco Phillips*
+
 Deere & Company
+
 Spirit Aerosystems*
+
 The Wendy's Company
+
 Dow Chemical*
+
 AutoZone Inc.
+
 Gap*
+
 Booz Allen Hamilton Holdings*
+
 Garmin International Inc.
+
 Tyson*
+
 Wawa Inc.
+
 JetBlue Airways*
+
 Bacardi USA Inc.
 
-* Indicates a company that originally committed to ceasing contributions benefiting members who voted not to certify the election.
+
 
  
       iv. 
