@@ -14,15 +14,20 @@
   iii.  The excuse: Disinformation campaign is hard to define.  There is a fine line between stating and mis-stating a point of information is "disinformation".  There is a real risk of discouraging legitimate discussion about hard-to-parse points of science and issues.
         Rebuttal: 
 5.  Spreaders of disinformation
-    a) Elected and appointed officials
-    b) Behind-the-scenes groups: Industry associations, lobbying groups, advocacy groups
-    c) News and Opinion Providers
-6.  Platforms for disinformation
-7. Financial supporters of disinformation: Archived articles, reports, links.
+    a) Summary
+        Elected and appointed officials
+        Behind-the-scenes groups: Industry associations, lobbying groups, advocacy groups
+        News and Opinion Providers
+    b) Accumulated raw articles, reports, links.
+6.  Providers of platforms for disinformation
+    a) Summary
+    b) Accumulated raw articles, reports, links.
+7. Financial supporters, both direct and indirect, of disinformation
+    a) notes
+    b) Accumulated raw articles, reports, links.
 8. Methods for Reducing the flow of finance from financial supporters of disinformation to platformers and spreaders.
 9. An Example
-10. Accumulated raw links, headlines and other information (the brunt of this page is here).
-11. Saved information on how to edit this page.
+10. Saved information on how to edit this page.
 
 --------------------------------------
 1.  Intro.
@@ -55,77 +60,83 @@ c) encouraging retail investors and consumers to consider helping shine a light 
         a) "We cannot help it if donations to politial action committees and politicians go to support many different sorts of votes."
         b) . "We cannot help it if advertising dollars go to an organization which provides a platform for many different points of view."
         Rebuttal:
-   ii.  The excuse: You are advocating for "censorship".  We are against "censorship".
+    ii. The excuse: You are advocating for "censorship".  We are against "censorship".
         Rebuttal: 
-  iii.  The excuse: Disinformation campaign is hard to define.  There is a fine line between stating and mis-stating a point of information is "disinformation".  There is a real risk of discouraging legitimate discussion about hard-to-parse points of science and issues.
-        Rebuttal: 
+    iii. 
+        The excuse: Disinformation campaign is hard to define.  There is a fine line between stating and mis-stating a point of information is "disinformation".  
+        There is a real risk of discouraging legitimate discussion about hard-to-parse points of science and issues.
+        
+        Rebuttal:
 --------------------------------------
 5.  Spreaders of disinformation
-    a) Elected and appointed officials
-    b) Behind-the-scenes groups: Industry associations, lobbying groups, advocacy groups
-    c) News and Opinion Providers
---------------------------------------
-6.  Platforms for disinformation
---------------------------------------
-7. Financial supporters of disinformation: Archived articles, reports, links.
---------------------------------------
-8. Methods for Reducing the flow of finance from financial supporters of disinformation to platformers and spreaders.
---------------------------------------
-9. An Example
---------------------------------------
-10.  
-
-a) 
-https://www.reuters.com/investigates/special-report/usa-oneamerica-att/
-A Reuters Special Report
-How AT&T helped build far-right One America News
- 
-Notes: OANN is a particularly strong source and platformer of deadly disinformation as to the election, the pandemic or the climate.
-https://www.greenpeace.org/usa/how-att-funds-right-wing-extremism-and-six-more-scary-things-you-need-to-know-about-the-company/
-How AT&T Funds Right Wing Extremism and Six More Scary Things You Need to Know About the Company
-by Charlie Cray
-October 26, 2021 
-"....OANN hosts regularly interview infamous climate deniers to talk about “so-called climate change” and disparage activists and policymakersworking for a clean energy future....."
-
-b. 
-https://www.citizensforethics.org/reports-investigations/crew-reports/this-sedition-is-brought-to-you-by/
-Money In Politics
-This sedition is brought to you by…
-June 23, 2021
-
-c.  
-https://www.citizen.org/article/corporate-sponsors-of-voter-suppression-state-lawmakers-50-million/
-April 5, 2021
-The Corporate Sponsors of Voter Suppression
-Since 2015, Corporations Have Contributed $50 Million to the State Lawmakers Supporting Voter Suppression Bills, Trade Groups Have Given Another $36 Million
-
-d.  
-https://www.mediamatters.org/fox-news/these-are-fox-news-leading-advertisers
-These are Fox News'leading advertisers
-Written by Media Matters Staff
-Published 07/26/19 1:37 PM EDT
-Updated 10/15/21 11:45 AM EDT(us tickers in parentheses where available)
-
-MyPillow
-Procter & Gamble (PG)
-Amazon (AMZN)
-Kraft Heinz (KHC)
-Pfizer (PFE)
-GlaxoSmithKline (GSK)
-Sandals Resorts
-PetSmart
-Liberty Mutual
-Allstate (ALL)
-Progressive (PGR)
-Abbott (ABT)
-General Motors (GM)
-Indeed
-Novartis (NVS)
-
-e.  
+    a) Summary
+        Elected and appointed officials
+        Behind-the-scenes groups: Industry associations, lobbying groups, advocacy groups
+        News and Opinion Providers
+    b) Accumulated raw articles, reports, links.
 
 --------------------------------------
-11. Saved information on how to edit this page.
+6.  Providers of platforms for disinformation
+    a) Summary
+    b) Accumulated raw articles, reports, links.
+
+--------------------------------------
+7. Financial supporters, both direct and indirect, of disinformation
+    a) notes
+    b) Accumulated raw articles, reports, links.
+      i. 
+      https://www.reuters.com/investigates/special-report/usa-oneamerica-att/
+      A Reuters Special Report
+      How AT&T helped build far-right One America News
+      ii.  https://www.greenpeace.org/usa/how-att-funds-right-wing-extremism-and-six-more-scary-things-you-need-to-know-about-the-company/
+      How AT&T Funds Right Wing Extremism and Six More Scary Things You Need to Know About the Company
+      by Charlie Cray
+      October 26, 2021 
+      "....OANN hosts regularly interview infamous climate deniers to talk about “so-called climate change” and disparage activists and policymakersworking for a clean energy
+      future..."
+      
+      ii. 
+      https://www.citizensforethics.org/reports-investigations/crew-reports/this-sedition-is-brought-to-you-by/
+      Money In Politics
+      This sedition is brought to you by…
+      June 23, 2021
+      
+      iii. 
+      https://www.citizen.org/article/corporate-sponsors-of-voter-suppression-state-lawmakers-50-million/
+      April 5, 2021
+      The Corporate Sponsors of Voter Suppression
+      Since 2015, Corporations Have Contributed $50 Million to the State Lawmakers Supporting Voter Suppression Bills, Trade Groups Have Given Another $36 Million
+      
+      iv. 
+      https://www.mediamatters.org/fox-news/these-are-fox-news-leading-advertisers
+      These are Fox News'leading advertisers
+      Written by Media Matters Staff
+      Published 07/26/19 1:37 PM EDT
+      Updated 10/15/21 11:45 AM EDT
+         (note: these are the names pulled from the article, with us tickers in parentheses where available)
+         MyPillow
+         Procter & Gamble (PG)
+         Amazon (AMZN)
+         Kraft Heinz (KHC)
+         Pfizer (PFE)
+         GlaxoSmithKline (GSK)
+         Sandals Resorts
+         PetSmart
+         Liberty Mutual
+         Allstate (ALL)
+         Progressive (PGR)
+         Abbott (ABT)
+         General Motors (GM)
+         Indeed
+         Novartis (NVS)
+         
+
+--------------------------------------
+8. An Example
+--------------------------------------
+9. Methods for Reducing the flow of finance from financial supporters of disinformation to platformers and spreaders.
+--------------------------------------
+10. Saved information on how to edit this page.
 
 # Title Here
 
