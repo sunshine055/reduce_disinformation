@@ -10,7 +10,7 @@
     
         a) "We cannot help it if donations to politial action committees and politicians go to support many different sorts of votes."
         
-        b) . "We cannot help it if advertising dollars go to an organization which provides a platform for many different points of view."
+        b) "We cannot help it if advertising dollars go to an organization which provides a platform for many different points of view."
 
         Rebuttal:
         
@@ -94,6 +94,20 @@ c) encouraging retail investors and consumers to consider helping shine a light 
     a) Summary
     
     b) Accumulated raw articles, reports, links.
+    
+    i.  (note this article does not demonstrate disinformation directly coming from this platform, but is noted as it might point to the need for further research).
+         https://www.vox.com/2018/4/3/17180020/sinclair-broadcast-group-conservative-trump-david-smith-local-news-tv-affiliate
+         Sinclair, the pro-Trump, conservative company taking over local news, explained
+         Sinclair reaches 40 percent of households — and soon will reach 72 percent.
+         By Dylan Matthewsdylan@vox.com Apr 3, 2018, 2:20pm EDT 
+         
+     ii.  
+         
+         
+
+
+
+
 
 --------------------------------------
 7. Financial supporters, both direct and indirect, of disinformation
@@ -105,26 +119,29 @@ c) encouraging retail investors and consumers to consider helping shine a light 
       https://www.reuters.com/investigates/special-report/usa-oneamerica-att/
       A Reuters Special Report
       How AT&T helped build far-right One America News
-      ii.  https://www.greenpeace.org/usa/how-att-funds-right-wing-extremism-and-six-more-scary-things-you-need-to-know-about-the-company/
+      
+      ii.  
+      https://www.greenpeace.org/usa/how-att-funds-right-wing-extremism-and-six-more-scary-things-you-need-to-know-about-the-company/
       How AT&T Funds Right Wing Extremism and Six More Scary Things You Need to Know About the Company
       by Charlie Cray
       October 26, 2021 
       "....OANN hosts regularly interview infamous climate deniers to talk about “so-called climate change” and disparage activists and policymakersworking for a clean energy
       future..."
+
       
-      ii. 
+      iii. 
       https://www.citizensforethics.org/reports-investigations/crew-reports/this-sedition-is-brought-to-you-by/
       Money In Politics
       This sedition is brought to you by…
       June 23, 2021
       
-      iii. 
+      iv. 
       https://www.citizen.org/article/corporate-sponsors-of-voter-suppression-state-lawmakers-50-million/
       April 5, 2021
       The Corporate Sponsors of Voter Suppression
       Since 2015, Corporations Have Contributed $50 Million to the State Lawmakers Supporting Voter Suppression Bills, Trade Groups Have Given Another $36 Million
       
-      iv. 
+      v. 
       https://www.mediamatters.org/fox-news/these-are-fox-news-leading-advertisers
       These are Fox News'leading advertisers
       Written by Media Matters Staff
@@ -150,17 +167,7 @@ c) encouraging retail investors and consumers to consider helping shine a light 
 
 --------------------------------------
 8.  Additional raw links and research
-      i.  (note this article does not demonstrate disinformation directly coming from this platform, but is noted as it might point to the need for further research).
-         https://www.vox.com/2018/4/3/17180020/sinclair-broadcast-group-conservative-trump-david-smith-local-news-tv-affiliate
-         Sinclair, the pro-Trump, conservative company taking over local news, explained
-         Sinclair reaches 40 percent of households — and soon will reach 72 percent.
-         By Dylan Matthewsdylan@vox.com Apr 3, 2018, 2:20pm EDT 
-         
-         
-
-
-
-
+      
 --------------------------------------
 9. An Example
 --------------------------------------
