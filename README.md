@@ -25,9 +25,10 @@
 7. Financial supporters, both direct and indirect, of disinformation
     a) notes
     b) Accumulated raw articles, reports, links.
-8. Methods for Reducing the flow of finance from financial supporters of disinformation to platformers and spreaders.
-9. An Example
-10. Saved information on how to edit this page.
+8. Additional raw links and research
+9. Methods for Reducing the flow of finance from financial supporters of disinformation to platformers and spreaders.
+10. An Example
+11. Saved information on how to edit this page.
 
 --------------------------------------
 1.  Intro.
@@ -56,6 +57,7 @@ c) encouraging retail investors and consumers to consider helping shine a light 
     c) US 2020 Presidential Election and related attempt to undermine US Election System Integrity
 --------------------------------------
 4.  Anticipation of objections/excuses, and rebuttals.
+
     i.  The excuse: Most financial support of disinformation campaigns is indirect and watered down.  
         a) "We cannot help it if donations to politial action committees and politicians go to support many different sorts of votes."
         b) . "We cannot help it if advertising dollars go to an organization which provides a platform for many different points of view."
@@ -69,6 +71,7 @@ c) encouraging retail investors and consumers to consider helping shine a light 
         Rebuttal:
 --------------------------------------
 5.  Spreaders of disinformation
+
     a) Summary
         Elected and appointed officials
         Behind-the-scenes groups: Industry associations, lobbying groups, advocacy groups
@@ -78,13 +81,16 @@ c) encouraging retail investors and consumers to consider helping shine a light 
 
 --------------------------------------
 6.  Providers of platforms for disinformation
+
     a) Summary
     
     b) Accumulated raw articles, reports, links.
 
 --------------------------------------
 7. Financial supporters, both direct and indirect, of disinformation
+
     a) Summary
+    
     b) Accumulated raw articles, reports, links.
       i. 
       https://www.reuters.com/investigates/special-report/usa-oneamerica-att/
