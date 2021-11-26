@@ -4,49 +4,50 @@
     a) Climate Emergency
     b) Pandemic Emergency
     c) US 2020 Presidential Election and related attempt to undermine US Election System Integrity
-4.  Anticipation of objections/excuses, and rebuttals.
+1.  Anticipation of objections/excuses, and rebuttals.
 
     i.  The excuse: Most financial support of disinformation campaigns is indirect and watered down. 
     
         a) "We cannot help it if donations to politial action committees and politicians go to support many different sorts of votes."
         
         b) "We cannot help it if advertising dollars go to an organization which provides a platform for many different points of view."
-        Rebuttal
+
+Rebuttal
         
    ii.  The excuse: You are advocating for "censorship".  We are against "censorship".
-   
-        Rebuttal
+
+Rebuttal
         
   iii.  The excuse: Disinformation campaign is hard to define.  There is a fine line between stating and mis-stating a point of information is "disinformation".  There is a real risk of discouraging legitimate discussion about hard-to-parse points of science and issues.
   
-        Rebuttal
-5.  Spreaders of disinformation
+  Rebuttal
+1.  Spreaders of disinformation
     a) Summary
         Elected and appointed officials
         Behind-the-scenes groups: Industry associations, lobbying groups, advocacy groups
         News and Opinion Providers
     b) Accumulated raw articles, reports, links.
-6.  Providers of platforms for disinformation
+1.  Providers of platforms for disinformation
     a) Summary
     b) Accumulated raw articles, reports, links.
-7. Financial supporters, both direct and indirect, of disinformation
+1. Financial supporters, both direct and indirect, of disinformation
     a) notes
     b) Accumulated raw articles, reports, links.
-8. Additional raw links and research
-9. Methods for Reducing the flow of finance from financial supporters of disinformation to platformers and spreaders.
-10. An Example
-11. Saved information on how to edit this page.
+1. Additional raw links and research
+2. Methods for Reducing the flow of finance from financial supporters of disinformation to platformers and spreaders.
+3. An Example
+4. Saved information on how to edit this page.
 
 --------------------------------------
-1.  Intro.
-This page is intended as a repository for accumulating some credible information and links as to key deadly disinformation points active in the US and throughout the world, as of 2021-11-23. It arises out of this reddit thread:
-https://www.reddit.com/r/ClimateOffensive/comments/qro579/an_idea_for_a_financial_product_that_might_help/
-Posted byu/melville48
-[original post made approximately November 11, 2021]
-An idea for a financial product that might help address both the climate emergency and other matters
+1.  Introduction
+    
+    This page is intended as a repository for accumulating some credible information and links as to key deadly disinformation points active in the US and throughout the world, as of 2021-11-23. It arises out of this reddit thread:
+    https://www.reddit.com/r/ClimateOffensive/comments/qro579/an_idea_for_a_financial_product_that_might_help/
+    [original post made approximately November 11, 2021]
+    An idea for a financial product that might help address both the climate emergency and other matters
 
 --------------------------------------
-2.  Goal
+1.  Goal     
 The goal is to reduce and stop the flow of disinformation.  The idea is to help bring this about by sharply curtailing the flow of funds to those individuals and organizations that are either most prominently giving voice to the disinformation, or providing platforms for those that are giving voice to the disinformation.  Basically, this means curtailing the flow of funds to those spreading deadly disinformation
 
 Although it is not fully effective, the main approach to reducing that fund flow is to make a list of 
@@ -54,30 +55,34 @@ Although it is not fully effective, the main approach to reducing that fund flow
  - advertisers on the media organizations (even if the advertising is not directly on shows that spread the disinformation), and then 
 
 a) encouraging ESG Financial Professionals to modify their filters and credible scoring systems to include examining companies for their disinformation support.  This should particularly include companies which claim support for low-carbon goals, but which then are sloppy in funneling money to deadly climate emergency disinformation (even if indirectly).
+
 b) encouraging managers of funds of equities (and other investable products) to use the impact investing tools at their disposal (divestment, shareholder activism, perhaps other tools) to pressure companies to improve their standing with respect to these matters.
 c) encouraging retail investors and consumers to consider helping shine a light on the bad-actor behavior of some of the otherwise-admirable companies in which they invest, and from which they consume.  This light can be shone by divestment, reduced use of that company's products, and perhaps by other means.
 
 --------------------------------------
-3.  List and explication as to prominent deadly disinformation campaigns (as of November 24, 2021) 
+1.  List and explication as to prominent deadly disinformation campaigns (as of November 24, 2021) 
+
     a) Climate Emergency
+    
     b) Pandemic Emergency
+    
     c) US 2020 Presidential Election and related attempt to undermine US Election System Integrity
 
 --------------------------------------
 4.  Anticipation of objections/excuses, and rebuttals.
 
-    i.  The excuse: Most financial support of disinformation campaigns is indirect and watered down.  
-        a) "We cannot help it if donations to politial action committees and politicians go to support many different sorts of votes."
-        b) . "We cannot help it if advertising dollars go to an organization which provides a platform for many different points of view."
+    i.  The excuse: Most financial support of disinformation campaigns is indirect and watered down.
+    
+      a) "We cannot help it if donations to politial action committees and politicians go to support many different sorts of votes."
+      
+    b) . "We cannot help it if advertising dollars go to an organization which provides a platform for many different points of view."
+    
+    Rebuttal:
         
-        Rebuttal:
-        
-    ii. The excuse: You are advocating for "censorship".  We are against "censorship".
-        
-        Rebuttal: 
-        
-    iii.The excuse: Disinformation campaign is hard to define.  There is a fine line between stating and mis-stating a point of information is "disinformation".  
-        There is a real risk of discouraging legitimate discussion about hard-to-parse points of science and issues.
+    ii. The excuse: You are advocating for "censorship".  We are against "censorship".  
+    Rebuttal
+         
+    iii.  The excuse: Disinformation campaign is hard to define.  There is a fine line between stating and mis-stating a point of information is "disinformation".  There is a real risk of discouraging legitimate discussion about hard-to-parse points of science and issues.
         
         Rebuttal:
 
@@ -85,9 +90,13 @@ c) encouraging retail investors and consumers to consider helping shine a light 
 5.  Spreaders of disinformation
 
     a) Summary
-        Elected and appointed officials
-        Behind-the-scenes groups: Industry associations, lobbying groups, advocacy groups
-        News and Opinion Providers
+    
+    Elected and appointed officials
+    
+    Behind-the-scenes groups: Industry associations
+    lobbying groups, advocacy groups
+    
+    News and Opinion Providers
         
     b) Accumulated raw articles, reports, links.
 
@@ -99,15 +108,18 @@ c) encouraging retail investors and consumers to consider helping shine a light 
     b) Accumulated raw articles, reports, links.
     
     i.  (note this article does not demonstrate disinformation directly coming from this platform, but is noted as it might point to the need for further research).
-         https://www.vox.com/2018/4/3/17180020/sinclair-broadcast-group-conservative-trump-david-smith-local-news-tv-affiliate
-         Sinclair, the pro-Trump, conservative company taking over local news, explained
-         Sinclair reaches 40 percent of households — and soon will reach 72 percent.
-         By Dylan Matthewsdylan@vox.com Apr 3, 2018, 2:20pm EDT 
+         https://www.vox.com/2018/4/3/17180020/sinclair-broadcast-group-conservative-trump-david-smith-local-news-tv-affiliate         
          
-     ii.  
+Sinclair, the pro-Trump, conservative company taking over local news, explained
+
+Sinclair reaches 40 percent of households — and soon will reach 72 percent.
          
+By Dylan Matthewsdylan@vox.com 
+
+Apr 3, 2018, 2:20pm EDT 
+               
 --------------------------------------
-7. Financial supporters, both direct and indirect, of disinformation
+1. Financial supporters, both direct and indirect, of disinformation
 
     a) Summary
     
@@ -119,14 +131,19 @@ c) encouraging retail investors and consumers to consider helping shine a light 
       
       ii.  
       https://www.greenpeace.org/usa/how-att-funds-right-wing-extremism-and-six-more-scary-things-you-need-to-know-about-the-company/
-      How AT&T Funds Right Wing Extremism and Six More Scary Things You Need to Know About the Company
-      by Charlie Cray
-      October 26, 2021 
-      "....OANN hosts regularly interview infamous climate deniers to talk about “so-called climate change” and disparage activists and policymakersworking for a clean energy
+      
+How AT&T Funds Right Wing Extremism and Six More Scary Things You Need to Know About the Company
+      
+by Charlie Cray
+      
+October 26, 2021 
+      
+"....OANN hosts regularly interview infamous climate deniers to talk about “so-called climate change” and disparage activists and policymakersworking for a clean energy
       future..."
 
       
-      iii. 
+      
+iii. 
       https://www.citizensforethics.org/reports-investigations/crew-reports/this-sedition-is-brought-to-you-by/
       Money In Politics
       This sedition is brought to you by…
@@ -166,7 +183,7 @@ Full list as presented on the citizensforethics.org page:
 "....These totals include contributions from PACs that are tied to either a corporation or a business group that represents an industry or profession. The recipients in these tallies include the campaigns and leadership PACs of the 147 members of Congress who voted not to certify the 2020 election results, as well as the National Republican Senatorial Committee (NRSC) and the National Republican Congressional Committee (NRCC), the two main Republican party committees supporting these members.
 
 
-"While some of the companies that show up in the data aren’t familiar to most Americans — like CSX Corporation and BWX Technologies — a number of the companies, listed in the chart below, are household names that most Americans will recognize and probably do business with. Several of them initially committed to ceasing contributions to members who voted not to certify the election results, before deciding to start giving again...."
+"While some of the companies that show up in the data aren’t familiar to most Americans — like CSX Corporation and BWX Technologies — a number of the companies, listed in the chart below, are household names that most Americans will `recognize and probably do business with. Several of them initially committed to ceasing contributions to members who voted not to certify the election results,` before deciding to start giving again...."
 
 
 (* Indicates a company that originally committed to ceasing contributions benefiting members who voted not to certify the election.)
