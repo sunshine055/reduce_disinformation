@@ -4,7 +4,7 @@
     a) Climate Emergency
     b) Pandemic Emergency
     c) US 2020 Presidential Election and related attempt to undermine US Election System Integrity
-1.  Anticipation of objections/excuses, and rebuttals.
+4.  Anticipation of objections/excuses, and rebuttals.
 
     i.  The excuse: Most financial support of disinformation campaigns is indirect and watered down. 
     
@@ -21,22 +21,21 @@ Rebuttal
   iii.  The excuse: Disinformation campaign is hard to define.  There is a fine line between stating and mis-stating a point of information is "disinformation".  There is a real risk of discouraging legitimate discussion about hard-to-parse points of science and issues.
   
   Rebuttal
-1.  Spreaders of disinformation
+5.  Spreaders of disinformation
     a) Summary
         Elected and appointed officials
         Behind-the-scenes groups: Industry associations, lobbying groups, advocacy groups
         News and Opinion Providers
     b) Accumulated raw articles, reports, links.
-1.  Providers of platforms for disinformation
+6.  Providers of platforms for disinformation
     a) Summary
     b) Accumulated raw articles, reports, links.
-1. Financial supporters, both direct and indirect, of disinformation
+7. Financial supporters, both direct and indirect, of disinformation
     a) notes
     b) Accumulated raw articles, reports, links.
-1. Additional raw links and research
-2. Methods for Reducing the flow of finance from financial supporters of disinformation to platformers and spreaders.
-3. An Example
-4. Saved information on how to edit this page.
+8. Additional raw links and research
+9. Methods for Reducing the flow of finance from financial supporters of disinformation to platformers and spreaders.
+10. An Example
 
 --------------------------------------
 1.  Introduction
@@ -404,50 +403,3 @@ Novartis (NVS)
 --------------------------------------
 10. Methods for Reducing the flow of finance from financial supporters of disinformation to platformers and spreaders.
 --------------------------------------
-11. Saved information on how to edit this page.
-
-# Title Here
-
-This README is formated using Markdown, and will be rendered as the default content when someone navigates to this project.  I've included some examples below of how Markdown works to help you get started.  You should be able to edit this file directly.
-
-If it helps you can use this markdown editor: [https://markdown-editor.github.io/](https://markdown-editor.github.io/)
-
-Description here.
-
-Possibly a disclaimer could go here.
-
-## Heading Level 2
-
-### Headding Level 3... and do on
-
-Tables work like this:
-
-Each new line is a row.  Columns are separated by the pipe character.
-
-Column 1 Heading | Column 2 Heading
----|---
-row 1.1 | row 1.2
-row 2.1 | row 2.2
-
-Lists look like this:
-
- * Item 1
- * Item 2
-
-Links work like this:
-
-Square brackets around the rendered content, parenthesis around the URL.
-
-[How you want the link to look](https://www.example.com)
-
-## Contributing
-
-To discuss the content on this page, open an issue [here](https://github.com/corporation-activism-research/reduce_disinformation/issues)
-
-Please provide:
-
- * Company Name
- * Complaint
- * Citations
-
-
