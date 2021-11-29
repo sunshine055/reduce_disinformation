@@ -17,7 +17,9 @@
 --------------------------------------
 1.  Introduction
     
-    This page is intended as a repository for accumulating some credible information and links as to key deadly disinformation points active in the US and throughout the world, as of 2021-11-23. It arises out of this reddit thread:
+    This page is intended as a repository for accumulating some credible information and links as to 
+    key deadly disinformation points active in the US and throughout the world, as of 2021-11-23. It arises out 
+    of this reddit thread:
     https://www.reddit.com/r/ClimateOffensive/comments/qro579/an_idea_for_a_financial_product_that_might_help/
     [original post made approximately November 11, 2021]
     An idea for a financial product that might help address both the climate emergency and other matters
