@@ -1,8 +1,11 @@
 1.  Intro
 2.  Goal Description
 3.  List of deadly disinformation campaigns (as of November 24, 2021) 
+<br>
     a) Climate Emergency
+	<br>
     b) Pandemic Emergency
+	<br>
     c) Ongoing coup attempt in the US, and related.	
 4.  Anticipation of objections/excuses, and rebuttals.
 5.  Spreaders of disinformation 
