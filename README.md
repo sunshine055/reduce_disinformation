@@ -22,6 +22,7 @@
     [original post made approximately November 11, 2021]
     An idea for a financial product that might help address both the climate emergency and other matters
 
+
 --------------------------------------
 1.  Goal     
 The goal is to reduce and stop the flow of disinformation.  The idea is to help bring this about by sharply curtailing the flow of funds to those individuals and organizations that are either most prominently giving voice to the disinformation, or providing platforms for those that are giving voice to the disinformation.  Basically, this means curtailing the flow of funds to those spreading deadly disinformation
