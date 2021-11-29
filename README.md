@@ -1,5 +1,5 @@
-1.  Intro
-2.  Goal Description
+1.  Intro<br>
+2.  Goal Description<br>
 3.  List of major ongoing deadly disinformation campaigns (as of November 24, 2021) 
 <br>
     a) Disinformation pertaining to the global Climate Emergency
@@ -7,13 +7,13 @@
     b) Disoinformation pertaining to the global Pandemic Emergency
 	<br>
     c) Disinformation falsely proclaiming a "stolen" US Presidential election in November 2020.	<br>
-4.  Anticipation of objections/excuses, and rebuttals.
-5.  Spreaders of disinformation 
-6.  Providers of platforms for disinformation
-7.  Financial supporters, both direct and indirect, of disinformation spreaders and platformers.
-8.  Additional raw links and research
-9.  Methods for reducing the flow of finance from supporters to platformers and spreaders.
-10. An Example
+4.  Anticipation of objections/excuses, and rebuttals.<br>
+5.  Spreaders of disinformation <br>
+6.  Providers of platforms for disinformation <br>
+7.  Financial supporters, both direct and indirect, of disinformation spreaders and platformers. <br>
+8.  Additional raw links and research <br>
+9.  Methods for reducing the flow of finance from supporters to platformers and spreaders. <br>
+10. An Example <br>
 
 --------------------------------------
 1.  Introduction
