@@ -6,7 +6,7 @@
 	<br>
     b) Disoinformation pertaining to the global Pandemic Emergency
 	<br>
-    c) Disinformation falsely proclaiming a "stolen" US Presidential election in November 2020.	
+    c) Disinformation falsely proclaiming a "stolen" US Presidential election in November 2020.	<br>
 4.  Anticipation of objections/excuses, and rebuttals.
 5.  Spreaders of disinformation 
 6.  Providers of platforms for disinformation
