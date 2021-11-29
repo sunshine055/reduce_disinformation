@@ -1,12 +1,9 @@
 1.  Intro<br>
 2.  Goal Description<br>
 3.  List of major ongoing deadly disinformation campaigns (as of November 24, 2021) 
-<br>
-    a) Disinformation pertaining to the global Climate Emergency
-	<br>
-    b) Disoinformation pertaining to the global Pandemic Emergency
-	<br>
-    c) Disinformation falsely proclaiming a "stolen" US Presidential election in November 2020.	<br>
+<br>    a) Disinformation pertaining to the global Climate Emergency<br>
+    b) Disinformation pertaining to the global Pandemic Emergency<br>
+    c) Disinformation falsely proclaiming a "stolen" US Presidential election in November 2020.<br>
 4.  Anticipation of objections/excuses, and rebuttals.<br>
 5.  Spreaders of disinformation <br>
 6.  Providers of platforms for disinformation <br>
