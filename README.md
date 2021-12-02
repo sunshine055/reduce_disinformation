@@ -14,7 +14,12 @@
 
 --------------------------------------
 1.  Introduction
-This page is intended as a repository for accumulating some credible information and links as to key deadly disinformation points active in the US and throughout the world, as of 2021-11-23. 
+This page is intended as a repository for accumulating some credible information and links as to:
+<br>
+a) ongoing key deadly disinformation campaigns  active in the US and throughout the world, as of 2021-11-23.
+<br>
+b) tracing some of the direct and particularly the indirect financing by corporations of those campaigns.  
+<br><br>
 It arises out of this reddit thread: 
 https://www.reddit.com/r/ClimateOffensive/comments/qro579/an_idea_for_a_financial_product_that_might_help/
 (original post made approximately November 11, 2021)
