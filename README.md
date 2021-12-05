@@ -11,9 +11,11 @@
 8.  Additional raw links and research <br>
 9.  Methods for reducing the flow of finance from supporters to platformers and spreaders. <br>
 10. An Example <br>
+<br>
 
---------------------------------------
 1.  Introduction<br>
+----------------
+<br>
 This page is intended as a repository for accumulating some credible information and links as to:
 <br>
 a) ongoing key deadly disinformation campaigns  active in the US and throughout the world, as of 2021-11-23.
