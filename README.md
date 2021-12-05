@@ -23,14 +23,6 @@ a) ongoing key deadly disinformation campaigns  active in the US and throughout 
 <br>
 b) tracing some of the direct and particularly the indirect financing by corporations of those campaigns.  
 <br><br>
-It arises out of this reddit thread: 
-<br>
-https://www.reddit.com/r/ClimateOffensive/comments/qro579/an_idea_for_a_financial_product_that_might_help/
-<br>
-(original post made approximately November 11, 2021)
-"An idea for a financial product that might help address both the climate emergency and other matters."
-<br>
-<br>
 <br>
 
 ----------------
