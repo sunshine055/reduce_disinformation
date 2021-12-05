@@ -10,9 +10,7 @@
 7.  Financial supporters, both direct and indirect, of disinformation spreaders and platformers. <br>
 8.  Any additional raw links and research <br>
 9.  Methods for reducing the flow of finance from supporters to platformers and spreaders. <br>
-10. An Example <br>
 <br>
-
 ----------------
 <br>
 1.  Introduction  
@@ -37,27 +35,27 @@ https://www.reddit.com/r/ClimateOffensive/comments/qro579/an_idea_for_a_financia
 
 ----------------
 <br>
-2.  Goal     
+2.  Goal and Method:     
 <br>
-The goal is to reduce and stop the flow of deadly disinformation.  How can this be done more effectively by the private sector and without pushing more for government intervention? Our reasoning is this.  We propose: 
+Our goal is to reduce and stop the flow of deadly disinformation.  How can this be done more effectively by the private sector and without pushing more for government intervention? 
 <br>
-1.  to reduce and stop the financing of those individuals and organizations that are either most prominently giving voice to the disinformation, or which are providing platforms to those that are giving voice to the disinformation.
+Our method is: 
 <br>
-2.  in order to reduce the flow of financing to the voices and platforms of disinformation, we propose to bring to bear the tools of impact equity investing toward some of those corporations which are presently financing the disinformation.  
+1.  Bring to bear the tools of consumer activism (boycotts and product alternative highlighting, naming and shaming, journalism, reviews, feedback to suppliers), and ESG/Sustainability/related impact equity investing (naming and shaming, shareholder resolutions, dinvestment, feedback to investor relations, fund exclusions and fund investing only in those funds which filter out financers of disinformation).  Use thes tools toward corporations which are presently financing deadly disinformation when they i) advertise on media platforms which clearly choose to carry deadly disinformation,  ii) donate to disinformation-spreading politicians and groups that send money to those politicians iii) finance think tanks and other organizations which clearly spread disinformation.
 <br>
-3.   Once the companies are responsive, and once the disinformation campaigns are reduced and eliminated, the impact investing efforts would end.
+2.  Once the companies are fully responsive, the consumer and impact investing efforts would end toward those companies.
 <br>
-
 Some more detail:
+<br>
 Although it is not fully effective, the main approach to reducing fund flow is to make a list of 
+<br>
  - donors to elected officials (including indirect donation such as through a PAC) and 
+<br>
  - advertisers on the media organizations (even if the advertising is not directly on shows that spread the disinformation), and then 
-
+<br>
 a) encouraging ESG Financial Professionals to modify their filters and credible scoring systems to include examining companies for their disinformation support.  This should particularly include companies which claim support for low-carbon goals, but which then are sloppy in funneling money to deadly climate emergency disinformation (even if indirectly).
-
 b) encouraging managers of funds of equities (and other investable products) to use the impact investing tools at their disposal (divestment, shareholder activism, perhaps other tools) to pressure companies to improve their standing with respect to these matters.
 c) encouraging retail investors and consumers to consider helping shine a light on the bad-actor behavior of some of the otherwise-admirable companies in which they invest, and from which they consume.  This light can be shone by divestment, reduced use of that company's products, and perhaps by other means.
-
 <br>
 
 ----------------
