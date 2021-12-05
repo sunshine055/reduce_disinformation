@@ -8,7 +8,7 @@
 5.  Spreaders of disinformation <br>
 6.  Providers of platforms for disinformation <br>
 7.  Financial supporters, both direct and indirect, of disinformation spreaders and platformers. <br>
-8.  Additional raw links and research <br>
+8.  Any additional raw links and research <br>
 9.  Methods for reducing the flow of finance from supporters to platformers and spreaders. <br>
 10. An Example <br>
 <br>
@@ -420,10 +420,7 @@ Novartis (NVS)
 
 ----------------
 <br>
-9. An Example
+9.
 <br>
-
-----------------
-<br>
-10. Methods for Reducing the flow of finance from financial supporters of disinformation to platformers and spreaders.
+Methods for Reducing the flow of finance from financial supporters of disinformation to platformers and spreaders.
 --------------------------------------
