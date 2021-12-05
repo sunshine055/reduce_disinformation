@@ -95,7 +95,7 @@ This excuse is the primary problem we are trying to counter.    Most of the dead
 </ol>
        
     ii.  The excuse: You are advocating for "censorship".
-<br>
+</ol><br>
 <br>
 <i>    Rebuttal </i>
     <br> Censorship (in the common use of the term) is an act of government interference with free speech.  We are not calling for this.  Our call is for consumers and investors to use their rights of free speech (in online comments, in shareholder proposals, and in other ways) along with their rights to behave with freedom as part of the free market (such as in boycott campaigns and in determining which equities to invest in).     
