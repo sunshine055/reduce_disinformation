@@ -13,11 +13,8 @@
 10. An Example <br>
 <br>
 
-1.  Introduction
-
-<br>
-----------------
-<br>
+1.  Introduction  
+----------------  <br>
 ----------------
 <br>
 This page is intended as a repository for accumulating some credible information and links as to:
