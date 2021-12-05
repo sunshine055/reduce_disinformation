@@ -59,6 +59,7 @@ c) encouraging retail investors and consumers to consider helping shine a light 
 
 ----------------
 <br>
+</ol>
 3.  List and explication as to prominent deadly disinformation campaigns (as of November 24, 2021) 
 <br>
 
@@ -74,9 +75,10 @@ c) encouraging retail investors and consumers to consider helping shine a light 
 
 ----------------
 <br>
+</ol>
 4.  Anticipation of objections/excuses, and rebuttals.
 <br>
-
+</ol>
     i.  The excuse: Most financial support of disinformation campaigns is indirect and watered down.
     <br>
       a) "We cannot help it if donations to politial action committees and politicians go to support many different sorts of votes."
