@@ -13,7 +13,7 @@
 10. An Example <br>
 
 --------------------------------------
-1.  Introduction
+1.  Introduction<br>
 This page is intended as a repository for accumulating some credible information and links as to:
 <br>
 a) ongoing key deadly disinformation campaigns  active in the US and throughout the world, as of 2021-11-23.
@@ -21,15 +21,27 @@ a) ongoing key deadly disinformation campaigns  active in the US and throughout 
 b) tracing some of the direct and particularly the indirect financing by corporations of those campaigns.  
 <br><br>
 It arises out of this reddit thread: 
+<br>
 https://www.reddit.com/r/ClimateOffensive/comments/qro579/an_idea_for_a_financial_product_that_might_help/
+<br>
 (original post made approximately November 11, 2021)
 "An idea for a financial product that might help address both the climate emergency and other matters."
-
+<br>
+<br>
 --------------------------------------
 1.  Goal     
-The goal is to reduce and stop the flow of disinformation.  The idea is to help bring this about by sharply curtailing the flow of funds to those individuals and organizations that are either most prominently giving voice to the disinformation, or providing platforms for those that are giving voice to the disinformation.  Basically, this means curtailing the flow of funds to those spreading deadly disinformation
+<br>
+The goal is to reduce and stop the flow of deadly disinformation.  How can this be done more effectively by the private sector and without pushing more for government intervention? Our reasoning is this.  We propose: 
+<br>
+1.  to reduce and stop the financing of those individuals and organizations that are either most prominently giving voice to the disinformation, or which are providing platforms to those that are giving voice to the disinformation.
+<br>
+2.  in order to reduce the flow of financing to the voices and platforms of disinformation, we propose to bring to bear the tools of impact equity investing toward some of those corporations which are presently financing the disinformation.  
+<br>
+3.   Once the companies are responsive, and once the disinformation campaigns are reduced and eliminated, the impact investing efforts would end.
+<br>
 
-Although it is not fully effective, the main approach to reducing that fund flow is to make a list of 
+Some more detail:
+Although it is not fully effective, the main approach to reducing fund flow is to make a list of 
  - donors to elected officials (including indirect donation such as through a PAC) and 
  - advertisers on the media organizations (even if the advertising is not directly on shows that spread the disinformation), and then 
 
