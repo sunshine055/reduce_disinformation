@@ -83,22 +83,27 @@ c) encouraging retail investors and consumers to consider helping shine a light 
 ----------------
 <br>
 4.  Anticipation of objections/excuses, and rebuttals.
-
+<br>
     i.  The excuse: Most financial support of disinformation campaigns is indirect and watered down.
-    
+    <br>
       a) "We cannot help it if donations to politial action committees and politicians go to support many different sorts of votes."
-      
-    b) . "We cannot help it if advertising dollars go to an organization which provides a platform for many different points of view."
-    
-    Rebuttal:
-        
-    ii. The excuse: You are advocating for "censorship".  We are against "censorship".  
-    Rebuttal
-         
-    iii.  The excuse: Disinformation campaign is hard to define.  There is a fine line between stating and mis-stating a point of information is "disinformation".  There is a real risk of discouraging legitimate discussion about hard-to-parse points of science and issues.
-        
-        Rebuttal:
+      <br>
+      b) "We cannot help it if advertising dollars go to an organization which provides a platform for many different points of view."
+    <br>
+    <i>Rebuttal</i>:
+<br>
+This excuse is the primary problem we are trying to counter.    Most of the deadly disinformation is being promulgated two or three levels removed from those helping to finance it.  For example, a company may say that they donate legally to some sort of political group or to a politician who works works to further causes that are in their interest.  They may say that the system is set up in such a way that those groups and politicians may work toward dozens and hundreds of other causes, that there is no way to fight that fact and how can they be expected to avoid all donations which may be tainted in this way.  The answer is that while it is true that the system is set up to co-mingle donations such that many different causes are mixed together, there are some causes that clearly amount to deadly disinformation, and they get people killed and should not be tolerated under any circumstances.   Such causes include disinformation about the climate emergency, about the results of the 2020 US Presidential Election, and about the pandemic.
+<br>
+       
+    ii. The excuse: You are advocating for "censorship".
+<br>
+<i>    Rebuttal </i>
+    <br>     
 
+    iii.  The excuse: Disinformation campaign is hard to define.  There is a fine line between stating and mis-stating a point of information is "disinformation".  There is a real risk of discouraging legitimate discussion about hard-to-parse points of science and issues.
+        <br>
+   <i>     Rebuttal:</i>
+<br>
 <br>
 
 ----------------
@@ -110,7 +115,7 @@ c) encouraging retail investors and consumers to consider helping shine a light 
     Elected and appointed officials
     
     Behind-the-scenes groups: Industry associations
-    lobbying groups, advocacy groups
+    lobbying groups, advocacy groups.
     
     News and Opinion Providers
         
