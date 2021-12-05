@@ -96,8 +96,9 @@ This excuse is the primary problem we are trying to counter.    Most of the dead
     <br> Censorship (in the common use of the term) is an act of government interference with free speech.  We are not calling for this.  Our call is for consumers and investors to use their rights of free speech (in online comments, in shareholder proposals, and in other ways) along with their rights to behave with freedom as part of the free market (such as in boycott campaigns and in determining which equities to invest in).     
 <br>
 
-    iii.  The excuse: "Disinformation" is hard to define.  There is a real risk of discouraging legitimate discussion about hard-to-parse points of science and issues.
-        <br>
+    
+iii.  The excuse: "Disinformation" is hard to define.  There is a real risk of discouraging legitimate discussion about hard-to-parse points of science and issues.
+</ol>        <br>
    <i>     Rebuttal:</i>
 There is a difference between debating extremely hard-to-understand points that are still very much in question, and deliberately putting forth proven-wrong information that will get people killed.  In the case of the climate emergency for example, some aspects of the science are still in doubt, but the basics (that a rise in carbon dioxide concentrations in the atmosphere are human-caused, are causing warming, and that the warming is having disastrous consequences) are settled.  If some wish to hold forth otherwise, that is their right, but if a company wishes to be counted as combatting climate change to the best of its ability, then it should be noted and massively discouraged if that company is sponsoring disinformation (even if indirectly) on these points.   
 <br>
