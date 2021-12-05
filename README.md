@@ -33,8 +33,11 @@ https://www.reddit.com/r/ClimateOffensive/comments/qro579/an_idea_for_a_financia
 "An idea for a financial product that might help address both the climate emergency and other matters."
 <br>
 <br>
---------------------------------------
-1.  Goal     
+<br>
+
+----------------
+<br>
+2.  Goal     
 <br>
 The goal is to reduce and stop the flow of deadly disinformation.  How can this be done more effectively by the private sector and without pushing more for government intervention? Our reasoning is this.  We propose: 
 <br>
@@ -55,8 +58,11 @@ a) encouraging ESG Financial Professionals to modify their filters and credible 
 b) encouraging managers of funds of equities (and other investable products) to use the impact investing tools at their disposal (divestment, shareholder activism, perhaps other tools) to pressure companies to improve their standing with respect to these matters.
 c) encouraging retail investors and consumers to consider helping shine a light on the bad-actor behavior of some of the otherwise-admirable companies in which they invest, and from which they consume.  This light can be shone by divestment, reduced use of that company's products, and perhaps by other means.
 
---------------------------------------
-1.  List and explication as to prominent deadly disinformation campaigns (as of November 24, 2021) 
+<br>
+
+----------------
+<br>
+3.  List and explication as to prominent deadly disinformation campaigns (as of November 24, 2021) 
 
     a) Climate Emergency
     
@@ -64,7 +70,10 @@ c) encouraging retail investors and consumers to consider helping shine a light 
     
     c) US 2020 Presidential Election and related ongoing attempts to undermine US Election System Integrity
 
---------------------------------------
+<br>
+
+----------------
+<br>
 4.  Anticipation of objections/excuses, and rebuttals.
 
     i.  The excuse: Most financial support of disinformation campaigns is indirect and watered down.
@@ -82,7 +91,10 @@ c) encouraging retail investors and consumers to consider helping shine a light 
         
         Rebuttal:
 
---------------------------------------
+<br>
+
+----------------
+<br>
 5.  Raw research as to spreaders of disinformation
 
     a) Summary
@@ -96,7 +108,10 @@ c) encouraging retail investors and consumers to consider helping shine a light 
         
     b) Accumulated raw articles, reports, links.
 
---------------------------------------
+<br>
+
+----------------
+<br>
 6.  Raw research as to providers of platforms for disinformation
 
     a) Summary
@@ -114,7 +129,10 @@ By Dylan Matthewsdylan@vox.com
 
 Apr 3, 2018, 2:20pm EDT 
                
---------------------------------------
+<br>
+
+----------------
+<br>
 7. Raw research as to financial supporters of disinformation
 
     a) Summary
@@ -392,11 +410,21 @@ Indeed
 Novartis (NVS)
          
 
---------------------------------------
+<br>
+
+----------------
+<br>
 8.  Additional raw links and research
       
---------------------------------------
+<br>
+
+----------------
+<br>
 9. An Example
 --------------------------------------
+<br>
+
+----------------
+<br>
 10. Methods for Reducing the flow of finance from financial supporters of disinformation to platformers and spreaders.
 --------------------------------------
