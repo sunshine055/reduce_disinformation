@@ -420,7 +420,14 @@ Novartis (NVS)
 
 ----------------
 <br>
-9.
-<br>
+9.<br>
 Methods for Reducing the flow of finance from financial supporters of disinformation to platformers and spreaders.
---------------------------------------
+<br>
+
+----------------
+<br>
+10. 
+<br> An Example.
+<br>
+----------------
+<br>
