@@ -76,9 +76,11 @@ c) encouraging retail investors and consumers to consider helping shine a light 
 ----------------
 <br>
 </ol>
+
 4.  Anticipation of objections/excuses, and rebuttals.
-<br>
 </ol>
+<br>
+<br>
     i.  The excuse: Most financial support of disinformation campaigns is indirect and watered down.
     <br>
       a) "We cannot help it if donations to politial action committees and politicians go to support many different sorts of votes."
@@ -89,8 +91,12 @@ c) encouraging retail investors and consumers to consider helping shine a light 
 <br>
 This excuse is the primary problem we are trying to counter.    Most of the deadly disinformation is being promulgated two or three levels removed from those helping to finance it.  For example, a company may say that they donate legally to some sort of political group or to a politician who works works to further causes that are in their interest.  They may say that the system is set up in such a way that those groups and politicians may work toward dozens and hundreds of other causes, that there is no way to fight that fact and how can they be expected to avoid all donations which may be tainted in this way.  The answer is that while it is true that the system is set up to co-mingle donations such that many different causes are mixed together, there are some causes that clearly amount to deadly disinformation, and they get people killed and should not be tolerated under any circumstances.   Such causes include disinformation about the climate emergency, about the results of the 2020 US Presidential Election, and about the pandemic.
 <br>
+<br>
+</ol>
        
     ii.  The excuse: You are advocating for "censorship".
+</ol>
+<br>
 <br>
 <i>    Rebuttal </i>
     <br> Censorship (in the common use of the term) is an act of government interference with free speech.  We are not calling for this.  Our call is for consumers and investors to use their rights of free speech (in online comments, in shareholder proposals, and in other ways) along with their rights to behave with freedom as part of the free market (such as in boycott campaigns and in determining which equities to invest in).     
