@@ -1,4 +1,4 @@
-<u>Holding Companies Accountable For Their Indirect Financing Of Deadly Disinformation </u>
+Holding Companies Accountable For Their Indirect Financing Of Deadly Disinformation
 
 1.  Intro<br>
 2.  Goal Description<br>
