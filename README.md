@@ -2,16 +2,18 @@ Holding Companies Accountable For Their Indirect Financing Of Deadly Disinformat
 
 1.  Intro<br>
 2.  Goal Description<br>
-3.  List of major ongoing deadly disinformation campaigns (as of November 24, 2021) 
+3.  Companies supporting (both directly and indirectly) disinformation spreaders and platformers. <br>
+4.  List of major ongoing deadly disinformation campaigns (as of November 24, 2021) 
 <br>    a) Disinformation pertaining to the global Climate Emergency<br>
     b) Disinformation pertaining to the global Pandemic Emergency<br>
     c) Disinformation falsely proclaiming a "stolen" US Presidential election in November 2020.<br>
-4.  Anticipation of objections/excuses, and rebuttals.<br>
-5.  Spreaders of disinformation <br>
-6.  Providers of platforms for disinformation <br>
-7.  Financial supporters, both direct and indirect, of disinformation spreaders and platformers. <br>
+5.  Anticipation of objections/excuses, and rebuttals.<br>
+6.  Spreaders of disinformation <br>
+7.  Providers of platforms for disinformation <br>
 8.  Any additional raw links and research <br>
 9.  Methods for reducing the flow of finance from supporters to platformers and spreaders. <br>
+10. An Example.
+<br>
 <br>
 ----------------
 <br>
@@ -35,15 +37,15 @@ Our goal is to reduce and stop the flow of deadly disinformation.  How can this 
 <br>
 Our method is: 
 <br>
-1.  Bring to bear the tools of consumer activism (boycotts and product alternative highlighting, naming and shaming, journalism, reviews, feedback to suppliers), and ESG/Sustainability/related impact equity investing (naming and shaming, shareholder resolutions, dinvestment, feedback to investor relations, fund exclusions and fund investing only in those funds which filter out financers of disinformation).  Use these tools toward corporations which are presently financing deadly disinformation.  The way they finance the disinformation is by
+a.  Bring to bear the tools of consumer activism (boycotts and product alternative highlighting, naming and shaming, journalism, reviews, feedback to suppliers), and ESG/Sustainability/related impact equity investing (naming and shaming, shareholder resolutions, dinvestment, feedback to investor relations, fund exclusions and fund investing only in those funds which filter out financers of disinformation).  Use these tools toward corporations which are presently financing deadly disinformation.  The way they finance the disinformation is by
 <br> i) advertising on media platforms which clearly choose to carry deadly disinformation,  
 <br> ii) donating to disinformation-spreading politicians and groups that send money to those politicians 
 <br> iii) donating to think tanks and other organizations which clearly spread disinformation.
 <br>
-2.  Once the companies are fully responsive and stop all three of these activities, the consumer and impact investing efforts would end toward those companies.
+b.  Once the companies are fully responsive and stop all three of these activities, the consumer and impact investing efforts would end toward those companies.
 <br>
 <br>
-Some more detail:
+c.  Some more detail:
 <br>
 A main approach to reducing fund flow is to make a list of 
 <br>
@@ -51,107 +53,21 @@ A main approach to reducing fund flow is to make a list of
 <br>
  - advertisers on the media organizations (even if the advertising is not directly on shows that spread the disinformation), and then 
 <br>
-a) encouraging ESG Financial Professionals to modify their filters and credible scoring systems to include examining companies for their disinformation support.  This should particularly include companies which claim support for low-carbon goals, but which then are sloppy in funneling money to deadly climate emergency disinformation (even if indirectly).
+i) encouraging ESG Financial Professionals to modify their filters and credible scoring systems to include examining companies for their disinformation support.  This should particularly include companies which claim support for low-carbon goals, but which then are sloppy in funneling money to deadly climate emergency disinformation (even if indirectly).
 <br>
 
-b) encouraging managers of funds of equities (and other investable products) to use the impact investing tools at their disposal (divestment, shareholder activism, perhaps other tools) to pressure companies to improve their standing with respect to these matters.
+ii) encouraging managers of funds of equities (and other investable products) to use the impact investing tools at their disposal (divestment, shareholder activism, perhaps other tools) to pressure companies to improve their standing with respect to these matters.
 <br>
-c) encouraging retail investors and consumers to consider helping shine a light on the bad-actor behavior of some of the otherwise-admirable companies in which they invest, and from which they consume.  This light can be shone by divestment, reduced use of that company's products, and perhaps by other means.
+iii) encouraging retail investors and consumers to consider helping shine a light on the bad-actor behavior of some of the otherwise-admirable companies in which they invest, and from which they consume.  This light can be shone by divestment, reduced use of that company's products, and perhaps by other means.
 <br>
 
+<br>
 ----------------
 <br>
-</ol>
-3.  List and explication as to prominent deadly disinformation campaigns (as of November 24, 2021) 
-<br>
 
-    a) Climate Emergency
-<br>
-    
-    b) Pandemic Emergency
-<br>
-    
-    c) US 2020 Presidential Election and related ongoing attempts to undermine US Election System Integrity
-
-<br>
-
-----------------
-<br>
 </ol>
 
-4.  Anticipation of objections/excuses, and rebuttals.
-</ol>
-<br>
-<br>
-    i.  The excuse: Most financial support of disinformation campaigns is indirect and watered down.
-    <br>
-      a) "We cannot help it if donations to politial action committees and politicians go to support many different sorts of votes."
-      <br>
-      b) "We cannot help it if advertising dollars go to an organization which provides a platform for many different points of view."
-    <br>
-    <i>Rebuttal</i>:
-<br>
-This excuse is the primary problem we are trying to counter.    Most of the deadly disinformation is being promulgated two or three levels removed from those helping to finance it.  For example, a company may say that they donate legally to some sort of political group or to a politician who works works to further causes that are in their interest.  They may say that the system is set up in such a way that those groups and politicians may work toward dozens and hundreds of other causes, that there is no way to fight that fact and how can they be expected to avoid all donations which may be tainted in this way.  The answer is that while it is true that the system is set up to co-mingle donations such that many different causes are mixed together, there are some causes that clearly amount to deadly disinformation, and they get people killed and should not be tolerated under any circumstances.   Such causes include disinformation about the climate emergency, about the results of the 2020 US Presidential Election, and about the pandemic.
-<br>
-<br>
-</ol>
-       
-    ii.  The excuse: You are advocating for "censorship".
-</ol><br>
-<br>
-<i>    Rebuttal </i>
-    <br> Censorship (in the common use of the term) is an act of government interference with free speech.  We are not calling for this.  Our call is for consumers and investors to use their rights of free speech (in online comments, in shareholder proposals, and in other ways) along with their rights to behave with freedom as part of the free market (such as in boycott campaigns and in determining which equities to invest in).     
-<br>
-<br>
-</ol>    
-iii.  The excuse: "Disinformation" is hard to define.  There is a real risk of discouraging legitimate discussion about hard-to-parse points of science and issues.
-</ol>        <br>
-   <i>     Rebuttal:</i>
-There is a difference between debating extremely hard-to-understand points that are still very much in question, and deliberately putting forth proven-wrong information that will get people killed.  In the case of the climate emergency for example, some aspects of the science are still in doubt, but the basics (that a rise in carbon dioxide concentrations in the atmosphere are human-caused, are causing warming, and that the warming is having disastrous consequences) are settled.  If some wish to hold forth otherwise, that is their right, but if a company wishes to be counted as combatting climate change to the best of its ability, then it should be noted and massively discouraged if that company is sponsoring disinformation (even if indirectly) on these points.   
-<br>
-<br>
-
-----------------
-<br>
-5.  Raw research as to spreaders of disinformation
-
-    a) Summary
-    
-    Elected and appointed officials
-    
-    Behind-the-scenes groups: Industry associations
-    lobbying groups, advocacy groups.
-    
-    News and Opinion Providers
-        
-    b) Accumulated raw articles, reports, links.
-
-<br>
-
-----------------
-<br>
-6.  Raw research as to providers of platforms for disinformation
-
-    a) Summary
-    
-    b) Accumulated raw articles, reports, links.
-    
-    i.  (note this article does not demonstrate disinformation directly coming from this platform, but is noted as it might point to the need for further research).
-         https://www.vox.com/2018/4/3/17180020/sinclair-broadcast-group-conservative-trump-david-smith-local-news-tv-affiliate         
-         
-Sinclair, the pro-Trump, conservative company taking over local news, explained
-
-Sinclair reaches 40 percent of households — and soon will reach 72 percent.
-         
-By Dylan Matthewsdylan@vox.com 
-
-Apr 3, 2018, 2:20pm EDT 
-               
-<br>
-
-----------------
-<br>
-7. Raw research as to financial supporters of disinformation
+3. Raw research as to financial supporters of disinformation
 
     a) Summary
     
@@ -428,6 +344,96 @@ Indeed
 Novartis (NVS)
          
 
+<br>
+
+----------------
+<br>
+</ol>
+4.  List and explication as to prominent deadly disinformation campaigns (as of November 24, 2021) 
+<br>
+
+    a) Climate Emergency
+<br>
+    
+    b) Pandemic Emergency
+<br>
+    
+    c) US 2020 Presidential Election and related ongoing attempts to undermine US Election System Integrity
+
+<br>
+
+----------------
+<br>
+</ol>
+
+5.  Anticipation of objections/excuses, and rebuttals.
+</ol>
+<br>
+<br>
+    i.  The excuse: Most financial support of disinformation campaigns is indirect and watered down.
+    <br>
+      a) "We cannot help it if donations to politial action committees and politicians go to support many different sorts of votes."
+      <br>
+      b) "We cannot help it if advertising dollars go to an organization which provides a platform for many different points of view."
+    <br>
+    <i>Rebuttal</i>:
+<br>
+This excuse is the primary problem we are trying to counter.    Most of the deadly disinformation is being promulgated two or three levels removed from those helping to finance it.  For example, a company may say that they donate legally to some sort of political group or to a politician who works works to further causes that are in their interest.  They may say that the system is set up in such a way that those groups and politicians may work toward dozens and hundreds of other causes, that there is no way to fight that fact and how can they be expected to avoid all donations which may be tainted in this way.  The answer is that while it is true that the system is set up to co-mingle donations such that many different causes are mixed together, there are some causes that clearly amount to deadly disinformation, and they get people killed and should not be tolerated under any circumstances.   Such causes include disinformation about the climate emergency, about the results of the 2020 US Presidential Election, and about the pandemic.
+<br>
+<br>
+</ol>
+       
+    ii.  The excuse: You are advocating for "censorship".
+</ol><br>
+<br>
+<i>    Rebuttal </i>
+    <br> Censorship (in the common use of the term) is an act of government interference with free speech.  We are not calling for this.  Our call is for consumers and investors to use their rights of free speech (in online comments, in shareholder proposals, and in other ways) along with their rights to behave with freedom as part of the free market (such as in boycott campaigns and in determining which equities to invest in).     
+<br>
+<br>
+</ol>    
+iii.  The excuse: "Disinformation" is hard to define.  There is a real risk of discouraging legitimate discussion about hard-to-parse points of science and issues.
+</ol>        <br>
+   <i>     Rebuttal:</i>
+There is a difference between debating extremely hard-to-understand points that are still very much in question, and deliberately putting forth proven-wrong information that will get people killed.  In the case of the climate emergency for example, some aspects of the science are still in doubt, but the basics (that a rise in carbon dioxide concentrations in the atmosphere are human-caused, are causing warming, and that the warming is having disastrous consequences) are settled.  If some wish to hold forth otherwise, that is their right, but if a company wishes to be counted as combatting climate change to the best of its ability, then it should be noted and massively discouraged if that company is sponsoring disinformation (even if indirectly) on these points.   
+<br>
+<br>
+
+----------------
+<br>
+6.  Raw research as to spreaders of disinformation
+
+    a) Summary
+    
+    Elected and appointed officials
+    
+    Behind-the-scenes groups: Industry associations
+    lobbying groups, advocacy groups.
+    
+    News and Opinion Providers
+        
+    b) Accumulated raw articles, reports, links.
+
+<br>
+
+----------------
+<br>
+7.  Raw research as to providers of platforms for disinformation
+
+    a) Summary
+    
+    b) Accumulated raw articles, reports, links.
+    
+    i.  (note this article does not demonstrate disinformation directly coming from this platform, but is noted as it might point to the need for further research).
+         https://www.vox.com/2018/4/3/17180020/sinclair-broadcast-group-conservative-trump-david-smith-local-news-tv-affiliate         
+         
+Sinclair, the pro-Trump, conservative company taking over local news, explained
+
+Sinclair reaches 40 percent of households — and soon will reach 72 percent.
+         
+By Dylan Matthewsdylan@vox.com 
+
+Apr 3, 2018, 2:20pm EDT 
+               
 <br>
 
 ----------------
