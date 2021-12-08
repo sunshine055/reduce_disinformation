@@ -67,7 +67,7 @@ iii) encouraging retail investors and consumers to consider helping shine a ligh
 
 </ol>
 
-3. Raw research as to financial supporters of disinformation
+3. Raw research as to companies supporting deadly disinformation, whether indirectly or directly.
 
     a) Summary
     
