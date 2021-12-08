@@ -1,5 +1,6 @@
-This page is in service of an activist effort to reduce promulgation of deadly disinformation worldwide by:
-Holding Companies Accountable For Their Indirect Financing Of Deadly Disinformation
+This page part of an activist effort to reduce promulgation of deadly disinformation worldwide by:
+
+<i>Holding Companies Accountable For Their Indirect Financing Of Deadly Disinformation</i>
 
 1.  Intro<br>
 2.  Goal Description<br>
