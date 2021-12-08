@@ -1,4 +1,4 @@
-This page part of an activist effort to reduce promulgation of deadly disinformation worldwide by:
+This page is part of an activist effort to reduce promulgation of deadly disinformation worldwide by:
 
 <i>Holding Companies Accountable For Their Indirect Financing Of Deadly Disinformation</i>
 
