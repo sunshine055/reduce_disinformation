@@ -1,4 +1,4 @@
-<i>Holding Companies Accountable For Their Indirect Financing Of Deadly Disinformation</i>
+<i>Holding Companies Accountable For Their Indirect And Direct Financing Of Deadly Disinformation</i>
 
 This page is a group effort by activists seeking to reduce promulgation of deadly disinformation worldwide.
 
@@ -33,11 +33,18 @@ a) ongoing key deadly disinformation campaigns  active in the US and throughout 
 b) tracing some of the direct and particularly the indirect financing by corporations of those campaigns.  
 <br><br>
 <br>
+It may also develop into a place to review the raw information and bring some order to it and identify which companies seem to be the biggest sponsors of deadly disinformation.  However, it is not clear yet if the resources will be available to make this happen. 
 
 ----------------
 <br>
 2.  Goal and method of achieving that goal:     
 <br>
+There is no planet on which information should be promulgated that is clearly both wrong and intentionally so, and which ultimately is deadly.  However, the promulgation of such disinformation, and the financing of that promulgation takes place on a basis around the world, and with little comment.  In particular, corporations and individuals financing the flow of disinformation are very brazen about this, as they routinely are able to hide behind the argument that they would not directly finance the disinformation, but that indirect finance is necessary.  They seem to argue that elected officials, news providers and pundits promulgating deadly disinformation are doing so as part of a mixed bag, amidst hundreds of points of accurate information, and the financiers must be allowed to go about the business of sticking up for various causes.  There is no getting away from the inherently sloppy problem, they seem to argue.
+
+We hold on this page that there are some points of disinformation that are so heinous and deadly that their financing should not be tolerated under any circumstances.  This particularly includes that the "indirect and unavoidable" argument does not hold when it comes to these points of disinformation, and that any corporation or ngo or individual financing this disinformation, even indirectly, should be held immediately accountable by consumers and investors.  
+
+It can be argued that issues of deadly disinformation are appropriate also for governments to address, even given concerns around rights of free speech, but that is not the focus of this page.  We are not advocating for censorship.  We are advocating for consumer and investor action.
+
 Our goal is to reduce and stop the flow of deadly disinformation.  How can this be done more effectively by the private sector and without pushing more for government intervention? 
 <br>
 Our method is: 
