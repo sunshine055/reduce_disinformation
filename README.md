@@ -452,19 +452,12 @@ this area is an outlet for anything else that might come up that does not fit ne
 Methods for Reducing the flow of finance from financial supporters of disinformation to platformers and spreaders.
 <br>
 
-
-Mostly I am focused here on influencing corporations, particularly with respect to addressing their attempt to back out of responsibility for the impact of their financial footprint by saying they really can't help the indirect impacts when it comes to financing politicians who have many causes, or financing advertising on networks that carry discussion of many matters.  Both types of multiplicity of issues are legitimate except in the case of some issues.  It is not ok, at this point, to spread what is clearly identifiable as disinformation about the pandemic, the election and related insurrection, or about the climate emergency.  A company should not be able to hide behind the multiplicity of issues argument.
-
-So, the methods may not be sufficiently effective but they are:
-
-- influencing new "ESG" filters, and similar, so that equities in clear violation of measures of disinformation financing are significantly harmed in their scores and reduced and eliminated from portfolios purporting to carry only decent ESG and Transition score companies.
+- providing ideas for new Transition and ESG (Environmental, Social, Governance) scoring systems and filters, and similar systems, so that listed companies clearly providing financing in support of disinformation are significantly harmed in their scores and reduced and eliminated from portfolios purporting to carry only companies with decent ESG and Transition scores.
 - Divestment
 - Continued investment but with sharp engagement (such as Engine No 1 is practicing.... this is a fund with the ticker VOTE that is famous for influencing the Exxon Mobil board).
 - product boycotts by consumers.
-- naming and shaming
-- not sure about other things.
+- general naming and shaming
 
-This is also not about trying to overshoot and hating on the media.  If their advertising dollars dry up somewhat, and they eliminate the most outrageous of the disinformation they are carrying, then there should be a path back to allowing for resumption of advertising.  However, it is something to be worked out, how long of a period there should be until resumption is ok, and where the lines are, as to reducing and eliminating disinformation.
 
 
 ----------------
