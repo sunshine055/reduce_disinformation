@@ -4,17 +4,19 @@ This page is part of an activist effort to reduce promulgation of deadly disinfo
 
 1.  Intro<br>
 2.  Goal Description<br>
-3.  Companies supporting (both directly and indirectly) disinformation spreaders and platformers. <br>
-4.  List of major ongoing deadly disinformation campaigns (as of November 24, 2021) 
-<br>    a) Disinformation pertaining to the global Climate Emergency<br>
+3.  Organized list of companies scoring poorly  
+4.  Raw Research as to companies supporting (both directly and indirectly) disinformation spreaders and platformers. <br>
+5.  List of major ongoing deadly disinformation campaigns (as of November 24, 2021) <br>  
+    a) Disinformation pertaining to the global Climate Emergency<br>
     b) Disinformation pertaining to the global Pandemic Emergency<br>
     c) Disinformation falsely proclaiming a "stolen" US Presidential election in November 2020.<br>
-5.  Anticipation of objections/excuses, and rebuttals.<br>
-6.  Spreaders of disinformation <br>
-7.  Providers of platforms for disinformation <br>
-8.  Any additional raw links and research <br>
-9.  Methods for reducing the flow of finance from supporters to platformers and spreaders. <br>
-10. An Example.
+6.  Anticipation of objections/excuses, and rebuttals.<br>
+7.  Spreaders of disinformation <br>
+8.  Providers of platforms for disinformation <br>
+9.  Any additional raw links and research <br>
+10.  Methods for reducing the flow of finance from supporters to platformers and spreaders. <br>
+11. An Example.
+
 <br>
 <br>
 ----------------
@@ -69,7 +71,17 @@ iii) encouraging retail investors and consumers to consider helping shine a ligh
 
 </ol>
 
-3. Raw research as to companies supporting deadly disinformation, whether indirectly or directly.
+3.  Organized List of Companies Scoring Poorly (not yet filled in)
+<br>a) Listed Companies Scoring Poorly<br>
+b) Privately held companies scoring poorly
+
+<br>
+----------------
+<br>
+
+</ol>
+
+4. Raw research as to companies supporting deadly disinformation, whether indirectly or directly.
 
     a) Summary
     
@@ -351,7 +363,7 @@ Novartis (NVS)
 ----------------
 <br>
 </ol>
-4.  List and explication as to prominent deadly disinformation campaigns (as of November 24, 2021) 
+5.  List of deadly disinformation campaigns which are presently the focus of this page (as of November 24, 2021) 
 <br>
 
     a) Climate Emergency
@@ -368,7 +380,7 @@ Novartis (NVS)
 <br>
 </ol>
 
-5.  Anticipation of objections/excuses, and rebuttals.
+6.  Anticipation of objections/excuses, and rebuttals.
 </ol>
 <br>
 <br>
@@ -402,7 +414,7 @@ There is a difference between debating extremely hard-to-understand points that 
 
 ----------------
 <br>
-6.  Raw research as to spreaders of disinformation
+7.  Raw research as to spreaders of disinformation
 
     a) Summary
     
@@ -419,7 +431,7 @@ There is a difference between debating extremely hard-to-understand points that 
 
 ----------------
 <br>
-7.  Raw research as to providers of platforms for disinformation
+8.  Raw research as to providers of platforms for disinformation
 
     a) Summary
     
@@ -440,7 +452,7 @@ Apr 3, 2018, 2:20pm EDT
 
 ----------------
 <br>
-8.  Additional raw links and research
+9.  Additional raw links and research
       
 <br>
 
@@ -448,7 +460,7 @@ this area is an outlet for anything else that might come up that does not fit ne
 
 ----------------
 <br>
-9.<br>
+10.<br>
 Methods for Reducing the flow of finance from financial supporters of disinformation to platformers and spreaders.
 <br>
 
@@ -462,7 +474,7 @@ Methods for Reducing the flow of finance from financial supporters of disinforma
 
 ----------------
 <br>
-10. 
+11. 
 <br> An Example.
 
 
@@ -505,3 +517,7 @@ So, it just seems to me this is a decent example of bringing about some change i
 
 ----------------
 <br>
+12. Contact information <br>
+
+Sober-minded activists interested in contributing to the work that goes into this page please contact:
+
