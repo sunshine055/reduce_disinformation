@@ -1,6 +1,6 @@
-This page is part of an activist effort to reduce promulgation of deadly disinformation worldwide by:
-
 <i>Holding Companies Accountable For Their Indirect Financing Of Deadly Disinformation</i>
+
+This page is a group effort by activists seeking to reduce promulgation of deadly disinformation worldwide.
 
 1.  Intro<br>
 2.  Goal Description<br>
@@ -16,6 +16,7 @@ This page is part of an activist effort to reduce promulgation of deadly disinfo
 9.  Any additional raw links and research <br>
 10.  Methods for reducing the flow of finance from supporters to platformers and spreaders. <br>
 11. An Example.
+12. Contact information for activists looking to contribute to this page.
 
 <br>
 <br>
