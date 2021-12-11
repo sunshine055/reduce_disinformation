@@ -444,16 +444,71 @@ Apr 3, 2018, 2:20pm EDT
       
 <br>
 
+this area is an outlet for anything else that might come up that does not fit neatly in the other categories.
+
 ----------------
 <br>
 9.<br>
 Methods for Reducing the flow of finance from financial supporters of disinformation to platformers and spreaders.
 <br>
 
+
+Mostly I am focused here on influencing corporations, particularly with respect to addressing their attempt to back out of responsibility for the impact of their financial footprint by saying they really can't help the indirect impacts when it comes to financing politicians who have many causes, or financing advertising on networks that carry discussion of many matters.  Both types of multiplicity of issues are legitimate except in the case of some issues.  It is not ok, at this point, to spread what is clearly identifiable as disinformation about the pandemic, the election and related insurrection, or about the climate emergency.  A company should not be able to hide behind the multiplicity of issues argument.
+
+So, the methods may not be sufficiently effective but they are:
+
+- influencing new "ESG" filters, and similar, so that equities in clear violation of measures of disinformation financing are significantly harmed in their scores and reduced and eliminated from portfolios purporting to carry only decent ESG and Transition score companies.
+- Divestment
+- Continued investment but with sharp engagement (such as Engine No 1 is practicing.... this is a fund with the ticker VOTE that is famous for influencing the Exxon Mobil board).
+- product boycotts by consumers.
+- naming and shaming
+- not sure about other things.
+
+This is also not about trying to overshoot and hating on the media.  If their advertising dollars dry up somewhat, and they eliminate the most outrageous of the disinformation they are carrying, then there should be a path back to allowing for resumption of advertising.  However, it is something to be worked out, how long of a period there should be until resumption is ok, and where the lines are, as to reducing and eliminating disinformation.
+
+
 ----------------
 <br>
 10. 
 <br> An Example.
+
+
 <br>
+
+one example came up this year where Toyota was caught financing some politicians opposed election certification.  There was this in late June:
+
+https://www.prnewsonline.com/toyota-pol … -response/
+Toyota’s Response on Political Contributions Angers Consumers
+avatar
+06/28/2021
+By Nicole Schuman
+
+Toyota issued a statement to Axios acknowledging the donations, but vaguely notes where it draws the line.
+
+and then about 10 days later there was this:
+
+https://pressroom.toyota.com/toyota-sta … ributions/
+Toyota Statement on PAC Contributions
+July 08, 2021
+
+Toyota is committed to supporting and promoting actions that further our democracy. Our company has long-standing relationships with Members of Congress across the political spectrum, especially those representing our U.S. operations. Our bipartisan PAC equally supports Democrats and Republicans running for Congress. In fact, in 2021, the vast majority of the contributions went to Democrats and Republicans who supported the certification of the 2020 election. We understand that the PAC decision to support select Members of Congress who contested the results troubled some stakeholders. We are actively listening to our stakeholders and, at this time, we have decided to stop contributing to those Members of Congress who contested the certification of certain states in the 2020 election.
+
+
+https://www.dallasnews.com/business/loc … ification/
+Toyota says it will stop donating to politicians who opposed certification of Biden’s election win
+The automaker faced calls for a boycott after a recent watchdog report identified it as the top donor to GOP officials who opposed certifying the 2020 election results.
+By Dom DiFurio
+
+1:59 PM on Jul 8, 2021 CDT — Updated at 4:46 PM on Jul 8, 2021 CDT
+
+"...Previously, Toyota had stood behind its corporate PAC donations, saying, “We do not believe it is appropriate to judge members of Congress solely based on their votes on the electoral certification.”..."
+
+So, it just seems to me this is a decent example of bringing about some change in the flow of finance to the spreaders of deadly disinformation
+
+
+<p>
+<br>
+
+
 ----------------
 <br>
