@@ -4,7 +4,7 @@ This page is maintained by activists united around the cause of reducing promulg
 
 1.  Intro<br>
 2.  Goal Description<br>
-3.  Organized list of companies scoring poorly  
+3.  Worst offenders and other companies scoring poorly  
 4.  Raw Research as to companies supporting (both directly and indirectly) disinformation spreaders and platformers. <br>
 5.  List of major ongoing deadly disinformation campaigns (as of November 24, 2021) <br>  
     a) Disinformation pertaining to the global Climate Emergency<br>
@@ -79,10 +79,25 @@ iii) encouraging retail investors and consumers to consider helping shine a ligh
 
 </ol>
 
-3.  Organized List of Companies Scoring Poorly (not yet filled in)
-<br>a) Listed Companies Scoring Poorly<br>
-b) Privately held companies scoring poorly
+3.  Worst offenders and other companies scoring poorly (not yet filled in)
 
+<br>
+
+a) Worst Offenders: Listed companies.
+
+<br>
+
+b) Worst Offenders: Privately held companies
+
+<br>
+
+c) broader list of poorly-scoring listed companies.
+
+<br>
+
+d) broader list of poorly-scoring privately-held companies. 
+
+<br>
 <br>
 ----------------
 <br>
