@@ -16,7 +16,7 @@ This page is maintained by activists seeking to reduce corporate financing of de
 9.  Any additional raw links and research <br>
 10.  Methods for reducing the flow of finance from supporters to platformers and spreaders. <br>
 11. An Example.
-12. Contact information for activists looking to contribute to this page.
+12. Contact information for activists looking to contribute to this page: email to: anondiscussion@gmail.com
 
 <br>
 <br>
@@ -546,4 +546,5 @@ So, it just seems to me this is a decent example of bringing about some change i
 12. Contact information <br>
 
 Sober-minded activists interested in contributing to the work that goes into this page please contact:
+anondiscussion@gmail.com
 
