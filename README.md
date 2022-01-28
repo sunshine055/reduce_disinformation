@@ -385,6 +385,25 @@ Novartis (NVS)
          
 
 <br>
+<br>
+
+(note the point on this one is not that there is an issue with Manchin opposing a bill, but that some of the grounds for opposition reminded us that Manchin gets in the way of climate emergency action.  The Republican backer is apparently a co-founder of Home Depot, which is a listed company.  This is a more tenuous suggestion, but noting for raw data for review).
+https://www.theguardian.com/us-news/2022/jan/28/joe-manchin-republican-donor-donation
+Billionaire Republican backer donates to Manchin after he killed key Biden bill
+
+Home Depot co-founder Ken Langone, author of I Love Capitalism!, said of the Democratic senator: ‘Thank God for Joe Manchin’
+Joe Manchin
+Billionaire Republican backer donates to Manchin after he killed key Biden bill
+
+Home Depot co-founder Ken Langone, author of I Love Capitalism!, said of the Democratic senator: ‘Thank God for Joe Manchin’
+Senator Joe Manchin of West Virginia received the maximum permissible donation of $5,000 each from the Home Depot co-founder Ken Langone and his wife.
+Senator Joe Manchin of West Virginia received the maximum permissible donation of $5,000 each from the Home Depot co-founder Ken Langone and his wife. Photograph: Kent Nishimura/Los Angeles Times/Rex/Shutterstock
+Martin Pengelly
+@MartinPengelly
+Fri 28 Jan 2022 16.01 GMT
+
+<br>
+<br>
 
 ----------------
 <br>
