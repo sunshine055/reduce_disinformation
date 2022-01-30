@@ -495,6 +495,21 @@ Apr 3, 2018, 2:20pm EDT
                
 <br>
 
+ii.  
+
+https://finance.yahoo.com/news/joni-mitchell-removes-music-spotify-144933231.html
+Joni Mitchell removes music from Spotify over vaccine misinformation
+
+Sat, January 29, 2022, 6:49 AM
+In this article:
+
+SPOT
++0.97%
+
+Jan 29 (Reuters) - 
+
+
+
 ----------------
 <br>
 9.  Additional raw links and research
