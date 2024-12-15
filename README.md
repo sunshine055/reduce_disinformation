@@ -1,7 +1,9 @@
 <i>Holding Companies Accountable For Their Indirect And Direct Financing Of Deadly Disinformation</i>
 
-This page is maintained by activists seeking to reduce corporate financing of deadly disinformation. <br>
-work-in-progress, first set up in November of 2021
+This page is maintained by activists seeking to reduce corporate financing of deadly disinformation. 
+<br>
+<br>
+This page was first set up in November of 2021
 
 1.  Intro<br>
 2.  Goal Description<br>
